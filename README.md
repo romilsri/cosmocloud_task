@@ -18,7 +18,7 @@ Setup
 # Installation
 
 1.Clone the repository:
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/romilsri/cosmocloud_task.git
 Navigate to the project directory:
 
 2. cd employee-management-system
